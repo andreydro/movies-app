@@ -1,0 +1,21 @@
+---
+1: !ruby/object:Movie
+  title: Star Wars
+  director: Nolan
+  year: '1999'
+  id: 1
+2: !ruby/object:Movie
+  title: Batman
+  director: Nolan
+  year: '2012'
+  id: 2
+3: !ruby/object:Movie
+  title: Superman
+  director: Unknown
+  year: '1998'
+  id: 3
+4: !ruby/object:Movie
+  title: Inception
+  director: Nolan
+  year: '2010'
+  id: 4
